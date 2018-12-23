@@ -1,3 +1,8 @@
+steps to run the project:
+(1). download and install the database Sakila from this [url](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
+(2). run any queries from 1a-8c described in the following, with corresponding query solutions given in the file homework.sql.
+
+
 # Homework Assignment
 
 ## Installation Instructions
