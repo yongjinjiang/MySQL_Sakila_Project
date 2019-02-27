@@ -1,10 +1,14 @@
-steps to run the project:
+## This is the homework project for unit 10(SQL) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/)
+   - Efficiently get useful information through MySQL Queries&subQueries from the database Sakila. For more information of the project, refer to the original text of the assignment [here](d#the-original-text-of-the-homework-assignment).
+   
+
+## Usage
 (1). download and install the database Sakila from this [url](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
 (2). run any queries from 1a-8c described in the following, with corresponding query solutions given in the file homework.sql.
 
 
+## **_The original text of the homework assignment:_** 
 # Homework Assignment
-
 ## Installation Instructions
 
 * Refer to the [installation guide](Installation.md) to install the necessary files.
