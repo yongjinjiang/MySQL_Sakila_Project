@@ -1,5 +1,5 @@
 ## This is the homework project for unit 10(SQL) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/)
-   - Efficiently get useful information through MySQL Queries&subQueries from the database Sakila, a standard schema that can be used for examples in books, tutorials, articles, etc. For more information of the project, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
+   - Efficiently get useful information through MySQL Queries from the database Sakila, a standard schema that can be used for examples in books, tutorials, articles, etc. For more information of the project, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
    
 
 ## Usage
